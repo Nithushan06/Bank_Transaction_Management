@@ -1,0 +1,4 @@
+Vithushan,Vithushan,03/04/2004,Male,kopay,0779235649,vithu@gmail.com,vithu12345
+Ashvin,Ashvin,20/11//2003,Male,2nd cross street,0743480592,ashvin@gmail.com,ashvin
+Anojan,Anojan,04/12/1999,Male,kopay,0779235649,ano@gmail.com,ano1234
+Vasantharasa Nithushan,Nithu,06/05/2004,Male,Kopay,0779235649,nithu@gmail.com,nithu1234
